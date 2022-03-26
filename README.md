@@ -1,14 +1,10 @@
 
-<h1> Team Haptic Hero </h1>
-
-# IFD
-
 ## Inhaltsverzeichnis
 1. [Projektbeschreibung und Moodboard] (#projektbeschreibung-und-moodboard)
-2. [Ideation] (#ideation)
-
 <a name="projektbeschreibung-und-moodboard"></a>
-### Projektbeschreibung und Moodboard
+
+2. [Ideation] (#ideation)
+<a name="ideation"></a>
 
 ## Projektbeschreibung und Moodboard
 ***
@@ -18,6 +14,12 @@ zwischen Personen in der Natur und computergetriebenen Systemen
 zur Verbesserung der Naturbildung im Schwarzwald
 
 ![Image text](/Thema.png)
+
+Moodboard
+
+![Embed](/Aufgabe 1 - Hannah Schmitt.pdf[/embed]
+
+## Ideation
 
 <h2> Meine ersten Überlegungen </h2>
 
