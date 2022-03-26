@@ -6,8 +6,9 @@
 2. [Ideation] (#ideation)
 <a name="Ideation"></a>
 
-## Projektbeschreibung und Moodboard
 ***
+## Projektbeschreibung und Moodboard
+
 Naturbildung im Schwarzwald
 Formen interaktiver, mobiler Schnittstellen
 zwischen Personen in der Natur und computergetriebenen Systemen
@@ -18,8 +19,8 @@ zur Verbesserung der Naturbildung im Schwarzwald
 ![Embed](/Aufgabe 1 - Hannah Schmitt.pdf)
 ![Embed](/Aufgabe 1.2 - Hannah Schmitt.pdf)
 
+***
 ## Ideation
-
 <h2> Ausgesuchte Persona </h2>
 Ich habe mich für diese Persona entschieden, um junge Menschen die Natur wieder etwas nöher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben.
 
@@ -41,7 +42,7 @@ Beispiele:
 
 
 <h2>Was möchte ich übermitteln? </h2>
-    Wissen über Besondere Tiere, Bäume im Schwarzwald, wie auch Verhalten im Wald.
+Wissen über Besondere Tiere, Bäume im Schwarzwald, wie auch Verhalten im Wald.
 
 
 
