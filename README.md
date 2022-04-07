@@ -16,6 +16,7 @@ zur Verbesserung der Naturbildung im Schwarzwald
 
 ![Image text](/Thema.png)
 
+[Hier können Sie das Dokument anschauen](https://www.icloud.com/iclouddrive/0adWNUFMXMvN49gXt60WZIBTw#Aufgabe_1_-_Hannah_Schmitt)
 ![Embed](/Aufgabe 1 - Hannah Schmitt.pdf)
 ![Embed](/Aufgabe 1.2 - Hannah Schmitt.pdf)
 
@@ -24,7 +25,7 @@ zur Verbesserung der Naturbildung im Schwarzwald
 <h3> Ausgesuchte Persona </h3>
 Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas nöher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben.
 
-[Hier können Sie das Dokument anschauen] ()
+[Hier können Sie das Dokument anschauen](https://www.icloud.com/iclouddrive/0f1bhiZkSHhC4x0kpYkJ67ZBg#Laura-Liebherr)
 ![Embed](/Laura-Liebherr.pdf)
 
 <h3> Erster Ideenansatz </h3>
@@ -45,6 +46,7 @@ Beispiele:
 
 <h2>Pitch:</h2>
 
+[Hier können Sie das Dokument anschauen](https://www.icloud.com/iclouddrive/066ThdoHqQgv3eB-1gaOPxvoA#InteraktiveLerntafel_LauraLiebherr)
 ![Embed](/InteraktiveLerntafel_LauraLiebherr.pdf)
 
  
