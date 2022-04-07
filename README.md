@@ -35,15 +35,13 @@ Nach dem Input von Herrn Rausch, dass das Projekt nicht nur aus einer Interaktio
 Ein **Interaktionsbrett** mit verschiedenen **Themenwelten** (Baumkunde, besondere Tiere in diesem Umfeld, richtiges Verhalten im Wald)
 Beispiele:
 * Q-Codes, mit näheren Informationen über die Themenwelt
-* Kurzfilm, aus dem Projektstudium.
-* Quiz: abgebildete Bäume, Vögel, Pflanzen, der User bekommt eine Frage gestellt und muss einen Knopf drücken, es entsteht ein Ton oder Leuchtsignal ob er/sie das richtige ausgewählt hat.
+* Quiz: abgebildete Bäume, Vögel, Pflanzen, der User bekommt eine Frage gestellt und muss einen Knopf drücken, es entsteht ein Leuchtsignal ob er/sie das richtige ausgewählt hat.
+* Geräusche-Quiz: Der User kann sich eine Art hörer ans Ohr halten und durch Knopfdruck verschiedene Geräusche abspielen lassen. Dann kann er raten von welchem Tier das Geräusch kommt. Durch ein Leuchtsignal wird dem User signalisiert, ob die Antwort richtig oder falsch ist.
 
 <h4>Es soll viel mehr als "nur" eine normale kleine Wandertafel sein</h4>
 
+<h2>Pitch:</h2>
 
-<h3>Was möchte ich übermitteln? </h3>
-Wissen über Besondere Tiere, Bäume im Schwarzwald, wie auch Verhalten im Wald.
-
-
+![Embed](/Interaktive%20Lerntafel.pdf)
 
  
