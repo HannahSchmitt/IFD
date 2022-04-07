@@ -24,6 +24,7 @@ zur Verbesserung der Naturbildung im Schwarzwald
 <h3> Ausgesuchte Persona </h3>
 Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas nöher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben.
 
+[Hier können Sie das Dokument anschauen] ()
 ![Embed](/Laura-Liebherr.pdf)
 
 <h3> Erster Ideenansatz </h3>
