@@ -44,6 +44,6 @@ Beispiele:
 
 <h2>Pitch:</h2>
 
-![Embed](/interaktiveLerntafel.pdf)
+![Embed](/InteraktiveLerntafel_LauraLiebherr.pdf)
 
  
