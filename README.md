@@ -52,5 +52,48 @@ Beispiele:
 
 [Hier können Sie das Dokument herunterladen](https://hsfurtwangende-my.sharepoint.com/:b:/g/personal/hannah_gabriele_schmitt_associate_hs-furtwangen_de/EZQuyd-M6DZAniOq8_NpmfUB-oQKNurWghOe9Y_eJ2aQsA?e=2kLe92)
 ![Embed](/InteraktiveLerntafel_LauraLiebherr.pdf)
-
+(06.04.)
  
+Ideenerweiterung:
+- Wenn der User im Wald spazieren geht und auf die Tafel zu läuft bzw an der Tafel vorbei, wird sie, durch einen integrierten Bewegungsmelder, die Wanderer auf die Tafel aufmerksam machen. Der Bewegungsmelder ist so eingestellt, dass er nur in einem bestimmten Abstand wieder reagiert, sonst würde er die Sprachausgabe auch während des Spiels oder wenn die User noch davor stehen wiederholen.
+- Die Interaktive Lerntafel soll ein kleines Quiz enthalten, es wird mehrere Tafeln geben, an denen sich der User über einen QR-Code "einloggt", er gibt seinen Namen ein und spielt 3-4 kleine Spiele/Quizfragen an einem Board, bei jedem kleinen Spiel kann er Punkte erreichen, diese werden ihm gleich auf seinem Handy angezeigt. Bei der nächsten Tafel kann der User wieder Spiele spielen und Punkte sammeln.
+- Der User bekommt zusätzlich zu seinen Punkten auf dem Handy, noch eine detailliertere Erklärung zur Lösung auf dem Handy gezeigt.
+- Wenn der User alle Tafel/Spiele durchgespielt hat, kann er seinen Score hochladen und mit dem Namen versehen. Die anderen Spieler sehen den Höchstscore und die Rangliste.
+
+- Mein Feature hebt sich in mehreren Punkten von bestehenden Lösungen ab. Bis dato gibt es meines Wissens noch keine Interaktive Wand im Wald. Zusätzlich gibt es die Verknüpfung mit einem Quiz in dem dargestellten Stil auch noch nicht. Es ähnelt einer "Schnitzeljagt"
+
+
+Folgende Quizfragen werden auf den unterschiedlichen interaktiven Tafeln zu lösen sein:
+
+Vogelthematik:
+- User hört ein Vogelgeräusch und muss erraten welchem Vogel dieses zuzuordnen ist.
+- Quiz welcher Vogel als erstes in der Frühe pfeift
+- Wie hoch fliegt der höchste Vogel?
+- Welcher Vogel ist der seltenste im Schwarzwald?
+- Welcher Vogel trägt zur Balzzeit einen Bart? - Auerhahn
+
+
+Baumthematik:
+- Welcher Baum ist im Schwarzwald am meist verbreitet? - Weißtanne
+- Wie heißt die höchste Tanne im Schwarzwald? - Großvatertanne 46m
+- Welcher Baum ist der größte? Eiche, Fichte, Buche? - Fichte
+- Welcher Baum wächst langsamer? Buche oder Eiche?
+    Bedeutend langsamer schießt die Eiche in die Höhe. Sie wächst durchschnittlich im Jahre nur 40 Millimeter, während die Buche es bis auf 90 Millimeter bringt.
+- Wie alt ist eine Eiche mit 120 cm Durchmesser?
+    96 Jahre
+    Den Umfang in Zentimetern multiplizieren Sie mit 0,8. Das Ergebnis zeigt das vermutliche Alter der Eiche.
+
+
+Verhalten im Wald:
+- 5 Tonnen werden davon jährlich nach der Wintersaison am Feldberg gesammelt: 
+    Müll
+    Hundekottüten
+    verloren gegangene Ski/Stöcke/Skikleidung
+(18.04.2022)
+
+
+<h3> Wireframe <h3>
+Machen Sie sich einen Überblick über meinen Wireframe, dieser befindet sich noch in der Konzeptionsphase
+https://assets.adobe.com/id/urn:aaid:sc:EU:f6cb41eb-bb55-4c4f-8ed8-98694e735441?view=difile
+(24.04.2022)
+
