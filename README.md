@@ -120,21 +120,21 @@ Die zweite Frage beschäftigte sich damit, ob sie an meiner Tafel stehen bleiben
 Dann konnten die Probanten:innen die Tafel so testen, wie Sie sie normal auch testen würden. Während der Testphase habe ich die Probanten beobachtet und Notizen gemacht, wie auch manche Kommentare abgegeben, falls etwas unklar war.
 
 <h3> Top-Findings:</h3>
-* 1. Grafik rechts oben wurde als eine Art "Uhr" erkannt, welche bei 12 wieder von vorne beginnt und nicht als Sonnenaufgang, da links oben zu viel Text geschrieben wurde und er nicht genau durchgelesen wird.
-* 2. Die Bezeichnung des QR-Codes lässt erahnen, dass die Website grundsätzlich mehr Infos über Vögel zur Verfügung stellt, dies sollte jedoch nicht so sein.
-* 3. Die Fragen grenzen sich thematisch vom oberen Teil ab, die Tafel wird als zweiteilig gesehen, dies sollte so nicht sein.
-* 4. Die Fragen sollen mehr Bezug auf den Gesang haben.
-**
+- 1. Grafik rechts oben wurde als eine Art "Uhr" erkannt, welche bei 12 wieder von vorne beginnt und nicht als Sonnenaufgang, da links oben zu viel Text geschrieben wurde und er nicht genau durchgelesen wird.
+- 2. Die Bezeichnung des QR-Codes lässt erahnen, dass die Website grundsätzlich mehr Infos über Vögel zur Verfügung stellt, dies sollte jedoch nicht so sein.
+- 3. Die Fragen grenzen sich thematisch vom oberen Teil ab, die Tafel wird als zweiteilig gesehen, dies sollte so nicht sein.
+- 4. Die Fragen sollen mehr Bezug auf den Gesang haben.
+
 
 Die Ergebnisse der Evaluation habe ich in meine Weiterentwicklung des Low-Fid Prototype eingebaut.
 Diese finden Sie in Canva (Seite 2)
 https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h3> Was habe ich verändert? </h3>
-* 1. Der Drehknopf habe ich als Schieberegler umfunktioniert, mit dem Schieberegler kann man die Zeit bis zum Sonnenaufgang "aufsteigen" lassen
-* 2. Zwischenüberschrift wurde verändert
-* 3. Weniger Informationstext 
-* 4. Fragen wurden mehr auf den Gesang geleitet und Bezug zu der oberen Thematik genommen
+- 1. Der Drehknopf habe ich als Schieberegler umfunktioniert, mit dem Schieberegler kann man die Zeit bis zum Sonnenaufgang "aufsteigen" lassen
+- 2. Zwischenüberschrift wurde verändert
+- 3. Weniger Informationstext 
+- 4. Fragen wurden mehr auf den Gesang geleitet und Bezug zu der oberen Thematik genommen
 
 
 <h3> Mein weiters Vorgehen </h3>
