@@ -1,10 +1,17 @@
 
 ## Inhaltsverzeichnis
-1. [Projektbeschreibung und Moodboard] (#projektbeschreibung-und-moodboard)
+
+1. [Projektbeschreibung und Moodboard]
 <a name="projektbeschreibung-und-moodboard"></a>
 
-2. [Ideation] (#ideation)
+2. [Ideation]
 <a name="Ideation"></a>
+
+3. [Low-Fid Prototype]
+<a name="Low-Fid Prototype"></a>
+
+4. [Evaluation]
+<a name="Evaluation"></a>
 
 ***
 ## Projektbeschreibung und Moodboard
@@ -24,6 +31,7 @@ zur Verbesserung der Naturbildung im Schwarzwald
 
 ***
 ## Ideation
+
 <h3> Ausgesuchte Persona </h3>
 Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas nöher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben.
 
@@ -88,9 +96,47 @@ Verhalten im Wald:
     verloren gegangene Ski/Stöcke/Skikleidung
 (18.04.2022)
 
+***
+## Low-Fid Prototype
 
 <h3> Wireframe </h3>
-Machen Sie sich einen Überblick über meinen Wireframe, dieser befindet sich noch in der Konzeptionsphase
+Machen Sie sich einen Überblick über meinen Wireframe, dieser befindet sich noch in der Konzeptionsphase, die Weiterentwicklung wird immer weiter dokumentiert, indem neue Seiten angelegt werden.
 https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 (24.04.2022)
+
+***
+## Evaluation
+
+Für die Evaluation wurde ein Plakat in DIN-A1 Format erstellt, dieses Plakat sollte die Wandertafel darstellen. Ich habe mich extra für diese Art der Präsenation meines Low-Fid Prototypes entschieden, um die Situation so realitätsnah wie möglich zu gestalten.
+
+Meine Art der Evaluation basierte auf der Thinking-Aloud Methode, welche sich auf die empirische Grundlage bezieht.
+Für die Lockerung der Situation habe ich meine Probanten zuerst einmal befragt, wie sie die üblichen Wandertafeln wahrnehmen.
+ Die Antworten waren sehr ähnlich, die Wandertafeln werden meist als sehr textlastig wahrgenommen. 2 der 3 Probanten schauen sich wenn dann die  
+ Überschrift an und laufen dann weiter - außer es ist sehr Interessant. Einer der Probanten beschäftigt sich grundsätzlich sehr gerne mit 
+ Informationstafeln und ließt es sich gerne durch.
+ 
+Die zweite Frage beschäftigte sich damit, ob sie an meiner Tafel stehen bleiben würden, dies beantworteten alle mit ja.
+
+Dann konnten die Probanten:innen die Tafel so testen, wie Sie sie normal auch testen würden. Während der Testphase habe ich die Probanten beobachtet und Notizen gemacht, wie auch manche Kommentare abgegeben, falls etwas unklar war.
+
+<h3> Top-Findings:</h3>
+1. Grafik rechts oben wurde als eine Art "Uhr" erkannt, welche bei 12 wieder von vorne beginnt und nicht als Sonnenaufgang, da links oben zu viel Text geschrieben wurde und er nicht genau durchgelesen wird.
+2. Die Bezeichnung des QR-Codes lässt erahnen, dass die Website grundsätzlich mehr Infos über Vögel zur Verfügung stellt, dies sollte jedoch nicht so sein.
+3. Die Fragen grenzen sich thematisch vom oberen Teil ab, die Tafel wird als zweiteilig gesehen, dies sollte so nicht sein.
+4. Die Fragen sollen mehr Bezug auf den Gesang haben.
+
+
+Die Ergebnisse der Evaluation habe ich in meine Weiterentwicklung des Low-Fid Prototype eingebaut.
+Diese finden Sie in Canva (Seite 2)
+https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+<h3> Was habe ich verändert? </h3>
+1. Der Drehknopf habe ich als Schieberegler umfunktioniert, mit dem Schieberegler kann man die Zeit bis zum Sonnenaufgang "aufsteigen" lassen
+2. Zwischenüberschrift wurde verändert
+3. Weniger Informationstext 
+4. Fragen wurden mehr auf den Gesang geleitet und Bezug zu der oberen Thematik genommen
+
+
+<h3> Mein weiters Vorgehen </h3>
+Ich beschäftige mich jetzt mit der technischen Umsetzung.
 
