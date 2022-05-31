@@ -140,5 +140,5 @@ https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content
 <h3> Mein weiters Vorgehen </h3>
 Ich beschäftige mich jetzt mit der technischen Umsetzung.
 
-![IMG_9980](https://user-images.githubusercontent.com/64101369/171169711-d6b5f929-6566-4adb-aa84-7d65fb84bb5d.JPG)
+![IMG_9980]width:50%(https://user-images.githubusercontent.com/64101369/171169711-d6b5f929-6566-4adb-aa84-7d65fb84bb5d.JPG)
 
