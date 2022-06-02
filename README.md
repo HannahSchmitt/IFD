@@ -24,7 +24,8 @@ zur Verbesserung der Naturbildung im Schwarzwald
 ![Image text](/Thema.png)
 
 <h2>Moodboard</h2>
-[Hier können Sie das Dokument anschauen](https://hsfurtwangende-my.sharepoint.com/:b:/g/personal/hannah_gabriele_schmitt_associate_hs-furtwangen_de/ERCOihw-T3RFqATz96ozPDsB2FQ5kLoHwd3xzGOVeH3iwA?e=U0195U)
+[Hier können Sie das Dokument anschauen](https://hsfurtwangende-my.sharepoint.com/:b:/g/personal/hannah_gabriele_schmitt_associate_hs-furtwangen_de/EW6zyF0xSL1BtCZhpv1ORkAB61canxmN9PUFu9-ojoiu3w?e=6oZYrH)
+
 
 ![Embed](/Aufgabe 1 - Hannah Schmitt.pdf)
 ![Embed](/Aufgabe 1.2 - Hannah Schmitt.pdf)
@@ -35,8 +36,6 @@ zur Verbesserung der Naturbildung im Schwarzwald
 <h3> Ausgesuchte Persona </h3>
 Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas nöher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben.
 
-[Hier können Sie das Dokument anschauen](https://hsfurtwangende-my.sharepoint.com/:b:/g/personal/hannah_gabriele_schmitt_associate_hs-furtwangen_de/EXr30fa_bgdDh-3-cKD874MB-4C-aGSzZLsoQiTTqqUCQQ?e=mvTQI9)
-![Embed](/Laura-Liebherr.pdf)
 
 <h3> Erster Ideenansatz </h3>
 Während der Wanderung kam mir die Idee eine begehbare Box zu gestalten, in der sich, bis jetzt, nur ein Tablet befindet. 
