@@ -140,5 +140,24 @@ https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content
 <h3> Mein weiters Vorgehen </h3>
 Ich beschäftige mich jetzt mit der technischen Umsetzung.
 
-![IMG_9980](https://user-images.githubusercontent.com/64101369/171169711-d6b5f929-6566-4adb-aa84-7d65fb84bb5d.JPG)
+
+Ich habe mir einen Plan geschrieben, welche einzelnen Funktionalitäten ich in meiner Installation gerne hätte. Dann habe ich mich auf die Suche gemacht, welche Lösungsmöglichkeiten es für diese Funktionalitäten gibt.
+
+1. Drehregler welcher mit einem Servo verknüpft ist steuert durch drehe des Drehreglers auf einen Vogel und spielt den Vogelgesang ab 
+2. Button mit Tonausgabe und LED Rückmeldung
+3. Button mit Tonausgabe
+
+Nun habe ich mir zuerst mit dem Drehregler beschäftigt, da dieser meiner Meinung nach die anspruchsvollste Komponente ist.
+
+Vorerst habe ich mich nur um den Drehregler gekümmert um den technischen und mechanischen Aufbau zu verstehen. Nach dem Verständnis habe ich den Drehregler an den ESP 32 angeschlossen und einen Testcode durchgeführt, welchen ich durch ein YouTube Video aufgeschrieben und verstanden habe. Bei dem Testcode drehte ich nach links und rechts, nach links blinkte das weiße Licht und nach rechts blinkte das rote Licht.
+
+Nun versuchte ich den Servo an den ESP32 und den Encoder anzuschließen. 
+Leider funktionierte das so nicht wie ich es mir vorgestellt habe, bei der Fehlersuche bin ich darauf gestoßen, dass der ESP zu wenig Leistung für den Servo hat. Daraufhin habe ich mich auf die Suche nach einer größeren Hardware gemacht. Als ich den Arduino UNO hatte, wollte ich diesen bei PlattformIO einbinden und den bestehenden Code überspielen, doch leider funktionierte dies nicht so wie ich wollte. Ich weiß nicht ob ich einen Fehler gemacht habe oder der Mac das Problem ist. 
+Da ich das Problem nicht beheben konnte habe ich den Computer von meiner Mitbewohnerin ausgeliehen und dies bei ArduinoIDE gemacht, dort hat es problemlos funktioniert.
+
+Nun konnte ich weiter programmieren.
+Der Encoder steuert den Servo an, beim drehen rotiert er in die gleiche Richtung und die gleich Gradzahl wie die Drehbewegung. 
+
+Ganz am Anfang vom Projekt versucht ich schon Musik abzuspielen, diesen Code nehme ich jetzt her und versuche ihn in den bestehenden Code einzubinden, dass der Ton bei der bestimmten Drehzahl abgespielt wird.
+
 
