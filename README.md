@@ -160,15 +160,8 @@ Der Encoder steuert den Servo an, beim drehen rotiert er in die gleiche Richtung
 Ganz am Anfang vom Projekt versucht ich schon Musik abzuspielen, diesen Code nahm ich jetzt her und versuchte ihn in den bestehenden Code einzubinden, dass der Ton bei der bestimmten Drehzahl abgespielt wird. Nachdem dies funktionierte machte ich mich an die Umsetzung des haptischen Prototyps.
 
 Der Karton wurde gelastert und das Plakat ausgedruckt, dann bindete ich die Hardware ein, wie den Servo, Encoder, Media Player und Lautsprecher.
-Im Folgenden können Sie den Ablauf und die Fortschritte sehen.
+In der ZIP-Datei können Sie ein paar Bilder sehen, um die Entwicklung nachzuvollziehen. 
 
-![IMG_0084](https://user-images.githubusercontent.com/64101369/175750771-a6c119c4-d4ac-44e6-acd8-3a2c1ab89668.JPG)
-![IMG_0329](https://user-images.githubusercontent.com/64101369/175750758-7e0c20cd-af03-4c3b-a193-5cc88c0c83e2.JPG)
-![IMG_0311](https://user-images.githubusercontent.com/64101369/175750777-4c7cbbd9-62ee-44d6-807d-d9715675056f.JPG)
-![IMG_0102](https://user-images.githubusercontent.com/64101369/175750803-c53919a2-4194-4642-b6ba-8a89429eefec.JPG)
-![IMG_0305](https://user-images.githubusercontent.com/64101369/175750800-d76d8cf5-4ad2-4e31-be14-15ea196fd4bd.JPG)
-![8689DF56-5AD1-46CA-8480-EE7EF8716A77](https://user-images.githubusercontent.com/64101369/175750810-f4d877ed-4e0e-4dfd-8111-5203680c3baa.jpg)
-![IMG_0360](https://user-images.githubusercontent.com/64101369/175750816-c2f31df3-c929-4e58-8322-0427f2a9edd7.JPG)
 
 
 
