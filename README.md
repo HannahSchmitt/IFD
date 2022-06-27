@@ -1,17 +1,25 @@
 
 ## Inhaltsverzeichnis
 
-1. [Projektbeschreibung und Moodboard]
+1. Projektbeschreibung und Moodboard
 <a name="projektbeschreibung-und-moodboard"></a>
 
-2. [Ideation]
+2. Ideation
 <a name="Ideation"></a>
 
-3. [Low-Fid Prototype]
+3. Low-Fid Prototype
 <a name="Low-Fid Prototype"></a>
 
-4. [Evaluation]
+4. Evaluation
 <a name="Evaluation"></a>
+
+5. Programmierung
+
+6. Entstehungsprozess
+
+7. Finaler Protototyp
+
+
 
 ***
 ## Projektbeschreibung und Moodboard
@@ -34,7 +42,7 @@ zur Verbesserung der Naturbildung im Schwarzwald
 ## Ideation
 
 <h3> Ausgesuchte Persona </h3>
-Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas nöher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben.
+Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas näher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben - IN der Natur.
 
 
 <h3> Erster Ideenansatz </h3>
@@ -47,9 +55,9 @@ Nach dem Input von Herrn Rausch, dass das Projekt nicht nur aus einer Interaktio
 
 Ein **Interaktionsbrett** mit verschiedenen **Themenwelten** (Baumkunde, besondere Tiere in diesem Umfeld, richtiges Verhalten im Wald)
 Beispiele:
-* Q-Codes, mit näheren Informationen über die Themenwelt
+* QR-Codes, mit näheren Informationen über die Themenwelt
 * Quiz: abgebildete Bäume, Vögel, Pflanzen, der User bekommt eine Frage gestellt und muss einen Knopf drücken, es entsteht ein Leuchtsignal ob er/sie das richtige ausgewählt hat.
-* Geräusche-Quiz: Der User kann sich eine Art hörer ans Ohr halten und durch Knopfdruck verschiedene Geräusche abspielen lassen. Dann kann er raten von welchem Tier das Geräusch kommt. Durch ein Leuchtsignal wird dem User signalisiert, ob die Antwort richtig oder falsch ist.
+* Geräusche-Quiz: Der User kann sich eine Art Hörer ans Ohr halten und durch Knopfdruck verschiedene Geräusche abspielen lassen. Dann kann er raten von welchem Tier das Geräusch kommt. Durch ein Leuchtsignal wird dem User signalisiert, ob die Antwort richtig oder falsch ist.
 
 <h4>Es soll viel mehr als "nur" eine normale kleine Wandertafel sein</h4>
 
@@ -157,12 +165,15 @@ Da ich das Problem nicht beheben konnte habe ich den Computer von meiner Mitbewo
 Nun konnte ich weiter programmieren.
 Der Encoder steuert den Servo an, beim drehen rotiert er in die gleiche Richtung und die gleich Gradzahl wie die Drehbewegung. 
 
-Ganz am Anfang vom Projekt versucht ich schon Musik abzuspielen, diesen Code nahm ich jetzt her und versuchte ihn in den bestehenden Code einzubinden, dass der Ton bei der bestimmten Drehzahl abgespielt wird. Nachdem dies funktionierte machte ich mich an die Umsetzung des haptischen Prototyps.
+Ganz am Anfang vom Projekt versuchte ich schon Musik abzuspielen, diesen Code nahm ich jetzt her und versuchte ihn in den bestehenden Code einzubinden, dass der Ton bei der bestimmten Drehzahl abgespielt wird. Nachdem dies funktionierte machte ich mich an die Umsetzung des haptischen Prototyps.
 
 Der Karton wurde gelastert und das Plakat ausgedruckt, dann bindete ich die Hardware ein, wie den Servo, Encoder, Media Player und Lautsprecher.
-In der ZIP-Datei können Sie ein paar Bilder sehen, um die Entwicklung nachzuvollziehen. 
+Hier ein paar Eindrücke der Arbeit und der Entwicklung. 
 
+Herzlichen Dank für die Möglichkeit dies umzusetzen.
 
+Viele Grüße
+Hannah :) 
 
 
 
