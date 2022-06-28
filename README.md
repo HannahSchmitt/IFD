@@ -25,11 +25,9 @@ zur Verbesserung der Naturbildung im Schwarzwald
 ![Image text](/Thema.png)
 
 <h2>Moodboard</h2>
-[Hier können Sie das Dokument anschauen](https://hsfurtwangende-my.sharepoint.com/:b:/g/personal/hannah_gabriele_schmitt_associate_hs-furtwangen_de/EW6zyF0xSL1BtCZhpv1ORkAB61canxmN9PUFu9-ojoiu3w?e=6oZYrH)
+Hier können Sie das Dokument anschauen:
+https://hsfurtwangende-my.sharepoint.com/:b:/g/personal/hannah_gabriele_schmitt_associate_hs-furtwangen_de/EW6zyF0xSL1BtCZhpv1ORkAB61canxmN9PUFu9-ojoiu3w?e=6oZYrH
 
-
-![Embed](/Aufgabe 1 - Hannah Schmitt.pdf)
-![Embed](/Aufgabe 1.2 - Hannah Schmitt.pdf)
 
 ***
 ## 2. Ideation
