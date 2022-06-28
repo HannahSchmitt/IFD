@@ -98,11 +98,9 @@ Verhalten im Wald:
 ## 3. Low-Fid Prototype
 
 <h3> Wireframe </h3>
-Machen Sie sich einen Überblick über meinen [Wireframe:](https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) , dieser befindet sich noch in der Konzeptionsphase, die Weiterentwicklung wird immer weiter dokumentiert, indem neue Seiten angelegt werden.
-https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-(24.04.2022)
-
+Machen Sie sich einen Überblick über meinen Wireframe, dieser befindet sich noch in der Konzeptionsphase, die Weiterentwicklung wird immer weiter dokumentiert, indem neue Seiten angelegt werden.
 [Wireframe:](https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+(24.04.2022)
 
 ***
 ## 4. Evaluation
@@ -128,7 +126,7 @@ Dann konnten die Probanten:innen die Tafel so testen, wie Sie sie normal auch te
 
 Die Ergebnisse der Evaluation habe ich in meine Weiterentwicklung des Low-Fid Prototype eingebaut.
 Diese finden Sie in Canva (Seite 2)
-https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Evaluation:](https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3> Was habe ich verändert? </h3>
 1. Der Drehknopf habe ich als Schieberegler umfunktioniert, mit dem Schieberegler kann man die Zeit bis zum Sonnenaufgang "aufsteigen" lassen <br>
