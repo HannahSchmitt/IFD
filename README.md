@@ -144,7 +144,7 @@ https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content
 4. Fragen wurden mehr auf den Gesang geleitet und Bezug zu der oberen Thematik genommen <br>
 
 
-<h3> Mein weiters Vorgehen </h3>
+<h3> Programmierung</h3>
 Ich beschäftige mich jetzt mit der technischen Umsetzung.
 
 
@@ -167,8 +167,9 @@ Der Encoder steuert den Servo an, beim drehen rotiert er in die gleiche Richtung
 
 Ganz am Anfang vom Projekt versuchte ich schon Musik abzuspielen, diesen Code nahm ich jetzt her und versuchte ihn in den bestehenden Code einzubinden, dass der Ton bei der bestimmten Drehzahl abgespielt wird. Nachdem dies funktionierte machte ich mich an die Umsetzung des haptischen Prototyps.
 
+<h3>Umsetzung Finaler Prototyp</h3>
 Der Karton wurde gelastert und das Plakat ausgedruckt, dann bindete ich die Hardware ein, wie den Servo, Encoder, Media Player und Lautsprecher.
-Hier ein paar Eindrücke der Arbeit und der Entwicklung. 
+Hier ein paar Eindrücke der Arbeit und der Entwicklung. - https://sites.google.com/view/ifd-hannahschmitt/start
 
 Herzlichen Dank für die Möglichkeit dies umzusetzen.
 
