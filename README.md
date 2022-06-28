@@ -96,6 +96,8 @@ Verhalten im Wald:
     verloren gegangene Ski/Stöcke/Skikleidung
 (18.04.2022)
 
+-> Dies habe ich im Laufe meiner Arbeit komplett verändert und reduziert.
+
 ***
 ## 3. Low-Fid Prototype
 
