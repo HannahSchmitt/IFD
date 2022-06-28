@@ -127,7 +127,7 @@ Dann konnten die Probanten:innen die Tafel so testen, wie Sie sie normal auch te
 
 Die Ergebnisse der Evaluation habe ich in meine Weiterentwicklung des Low-Fid Prototype eingebaut.
 Diese finden Sie in Canva (Seite 2)
-[Evaluation](https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Zur Weiterentwicklung](https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content=DAE_F7XChJ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3> Was habe ich verändert? </h3>
 1. Der Drehknopf habe ich als Schieberegler umfunktioniert, mit dem Schieberegler kann man die Zeit bis zum Sonnenaufgang "aufsteigen" lassen <br>
@@ -161,7 +161,7 @@ Ganz am Anfang vom Projekt versuchte ich schon Musik abzuspielen, diesen Code na
 
 ## 6. Umsetzung Finaler Prototyp
 Der Karton wurde gelastert und das Plakat ausgedruckt, dann bindete ich die Hardware ein, wie den Servo, Encoder, Media Player und Lautsprecher.
-Hier ein paar Eindrücke der Arbeit und der Entwicklung. - https://sites.google.com/view/ifd-hannahschmitt/start
+[Hier ein paar Eindrücke der Arbeit und der Entwicklung.](https://sites.google.com/view/ifd-hannahschmitt/start)
 
 Herzlichen Dank für die Möglichkeit dies umzusetzen.
 
