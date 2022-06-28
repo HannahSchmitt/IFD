@@ -2,27 +2,20 @@
 ## Inhaltsverzeichnis
 
 1. Projektbeschreibung und Moodboard
-<a name="projektbeschreibung-und-moodboard"></a>
 
 2. Ideation
-<a name="Ideation"></a>
 
 3. Low-Fid Prototype
-<a name="Low-Fid Prototype"></a>
 
 4. Evaluation
-<a name="Evaluation"></a>
 
 5. Programmierung
 
-6. Entstehungsprozess
-
-7. Finaler Protototyp
-
+6. Umsetzung Finaler Protototyp
 
 
 ***
-## Projektbeschreibung und Moodboard
+## 1. Projektbeschreibung und Moodboard
 
 Naturbildung im Schwarzwald
 Formen interaktiver, mobiler Schnittstellen
@@ -39,7 +32,7 @@ zur Verbesserung der Naturbildung im Schwarzwald
 ![Embed](/Aufgabe 1.2 - Hannah Schmitt.pdf)
 
 ***
-## Ideation
+## 2. Ideation
 
 <h3> Ausgesuchte Persona </h3>
 Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas näher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben - IN der Natur.
@@ -104,7 +97,7 @@ Verhalten im Wald:
 (18.04.2022)
 
 ***
-## Low-Fid Prototype
+## 3. Low-Fid Prototype
 
 <h3> Wireframe </h3>
 Machen Sie sich einen Überblick über meinen Wireframe, dieser befindet sich noch in der Konzeptionsphase, die Weiterentwicklung wird immer weiter dokumentiert, indem neue Seiten angelegt werden.
@@ -112,7 +105,7 @@ https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content
 (24.04.2022)
 
 ***
-## Evaluation
+## 4. Evaluation
 
 Für die Evaluation wurde ein Plakat in DIN-A1 Format erstellt, dieses Plakat sollte die Wandertafel darstellen. Ich habe mich extra für diese Art der Präsenation meines Low-Fid Prototypes entschieden, um die Situation so realitätsnah wie möglich zu gestalten.
 
@@ -144,7 +137,7 @@ https://www.canva.com/design/DAE_F7XChJ4/uanZ0gd4XPYd6aWELmfd9g/edit?utm_content
 4. Fragen wurden mehr auf den Gesang geleitet und Bezug zu der oberen Thematik genommen <br>
 
 
-<h3> Programmierung</h3>
+## 5. Programmierung</h3>
 Ich beschäftige mich jetzt mit der technischen Umsetzung.
 
 
@@ -167,7 +160,7 @@ Der Encoder steuert den Servo an, beim drehen rotiert er in die gleiche Richtung
 
 Ganz am Anfang vom Projekt versuchte ich schon Musik abzuspielen, diesen Code nahm ich jetzt her und versuchte ihn in den bestehenden Code einzubinden, dass der Ton bei der bestimmten Drehzahl abgespielt wird. Nachdem dies funktionierte machte ich mich an die Umsetzung des haptischen Prototyps.
 
-<h3>Umsetzung Finaler Prototyp</h3>
+## 6. Umsetzung Finaler Prototyp
 Der Karton wurde gelastert und das Plakat ausgedruckt, dann bindete ich die Hardware ein, wie den Servo, Encoder, Media Player und Lautsprecher.
 Hier ein paar Eindrücke der Arbeit und der Entwicklung. - https://sites.google.com/view/ifd-hannahschmitt/start
 
