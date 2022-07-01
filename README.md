@@ -31,7 +31,7 @@ Hier können Sie das Dokument anschauen: https://hsfurtwangende-my.sharepoint.co
 ## 2. Ideation
 
 <h3> Ausgesuchte Persona </h3>
-Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas näher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund wie das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben - IN der Natur.
+Ich habe mich für Laura Liebherr entschieden, um junge Menschen die Natur wieder etwas näher zu bringen. Heutzutage stehen Smartphone und die Sozialen Medien viel mehr im Vordergrund als das reale Leben. Daher die Verknüpfung von Interaktiven Medien in der Natur. Der Spaß an den Medien soll keinesfalls verloren gehen. Mir ist es in diesem Projekt wichtig, dass die User nicht zuhause vor ihrem Smartphone sitzen und sich dort Wissen über die Natur aneignen, sondern dies wirklich erleben - IN der Natur.
 
 
 <h3> Erster Ideenansatz </h3>
@@ -39,7 +39,7 @@ Während der Wanderung kam mir die Idee eine begehbare Box zu gestalten, in der 
 Auf dem Tablet können sich die User ein Wissensvideo anschauen, welches wir schon in meinem Projektstudium drehen. 
 Es geht um das Thema Nachhaltigkeit und Tourismus im Hochschwarzwald.
 
-Nach dem Input von Herrn Rausch, dass das Projekt nicht nur aus einer Interaktion, in diesem Fall das Video anschalten und anschauen, sondern aus mehreren Interaktionen bestehen soll, kam ich auf weitere Ideen.
+Nach dem Input von Herrn Rausch, dass das Projekt nicht nur aus einer Interaktion, in diesem Fall dem Video anschalten und anschauen, sondern aus mehreren Interaktionen bestehen soll, kam ich auf weitere Ideen.
 
 
 Ein **Interaktionsbrett** mit verschiedenen **Themenwelten** (Baumkunde, besondere Tiere in diesem Umfeld, richtiges Verhalten im Wald)
@@ -160,10 +160,19 @@ Der Encoder steuert den Servo an, beim drehen rotiert er in die gleiche Richtung
 Ganz am Anfang vom Projekt versuchte ich schon Musik abzuspielen, diesen Code nahm ich jetzt her und versuchte ihn in den bestehenden Code einzubinden, dass der Ton bei der bestimmten Drehzahl abgespielt wird. Nachdem dies funktionierte machte ich mich an die Umsetzung des haptischen Prototyps.
 
 ## 6. Umsetzung Finaler Prototyp
+Bevor ich das Plakat ausdruckte überarbeitete ich es nocheinmal. Sowohl visuell, als auch in seiner Funktion, wie es später benutzt werden soll. 
+Die Idee mit dem Schieberegler verwarf ich wieder und baute den Drehregler ein. Das Grunddesign von einem rechteckigen Plakat verwarf ich und machte daraus einen Baum, meiner Meinung nach passte das sehr gut zur Thematik und ist etwas "neues" und kein Standard wie eine "normale" Wandertafel.
+Dann machte ich mich an die Umsetzung.
 Der Karton wurde gelastert und das Plakat ausgedruckt, dann bindete ich die Hardware ein, wie den Servo, Encoder, Media Player und Lautsprecher.
 [Hier ein paar Eindrücke der Arbeit und der Entwicklung.](https://sites.google.com/view/ifd-hannahschmitt/start)
 
-Herzlichen Dank für die Möglichkeit dies umzusetzen.
+## 7. Kleine Stolpersteine
+Während meiner Umsetzung kamen mir eine Stolpersteine in den Weg, die mir nicht nur Zeit, sondern auch jegliche Nerven kosteten, hier eine kleine Aufzählung der Zeitintensivsten :D 
+- Arduino IDE funktionierte nicht auf dem MacBook -> Umstieg auf PlattformIO
+- Code lies sich nicht mehr auf den Arduino Uno uploaden, um den Fehler zu finden versuchte ich es mit Arduino UNO und ohne jegliche Anschlüsse (Kabel) -> Schlussendlich lag es an irgendeinem Kabel, welches ich versehentlich falsch angeschlossen habe und dadurch den Upload verhinderte.
+- 6 Stunden Laserarbeit für die Wandertafel waren für Katz :D Weil das geplottete Plakat nicht Maßstabsgetreu ausgedruckt wurde und ich keine Möglichkeit hatte dies nocheinmal vor der Abgabe auszudrucken. Das hieß für mich, dass ich den Laservorgang nocheinmal wiederholte, dann aber mit dünnerem Karton, welches sich dann leider an der Stabilität bemerkbar machte. Doch es steht :D 
+
+Herzlichen Dank für die Möglichkeit dieses Projekt umzusetzen.
 
 Viele Grüße
 Hannah :) 
