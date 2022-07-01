@@ -13,6 +13,8 @@
 
 6. Umsetzung Finaler Protototyp
 
+7. Kleine Stolpersteine
+
 
 ***
 ## 1. Projektbeschreibung und Moodboard
